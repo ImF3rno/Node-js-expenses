@@ -1,0 +1,118 @@
+[
+    {
+      "name": "Groceries",
+      "amount": 50.75,
+      "notes": "Weekly shopping",
+      "created": "2024-02-14T10:30:00.000Z"
+    },
+    {
+      "name": "Rent",
+      "amount": 1200,
+      "notes": "Monthly rent payment",
+      "created": "2024-02-01T12:00:00.000Z"
+    },
+    {
+      "name": "Utilities",
+      "amount": 150,
+      "created": "2024-02-10T08:45:00.000Z"
+    },
+    {
+      "name": "Dinner",
+      "amount": 30,
+      "notes": "Dining out with friends",
+      "created": "2024-02-12T19:15:00.000Z"
+    },
+    {
+      "name": "Internet",
+      "amount": 60,
+      "notes": "Monthly internet bill",
+      "created": "2024-02-05T15:20:00.000Z"
+    },
+    {
+      "name": "Gas",
+      "amount": 40.5,
+      "created": "2024-02-08T07:00:00.000Z"
+    },
+    {
+      "name": "Clothing",
+      "amount": 80,
+      "created": "2024-02-14T14:45:00.000Z"
+    },
+    {
+      "name": "Movies",
+      "amount": 25,
+      "notes": "Tickets and snacks",
+      "created": "2024-02-02T18:30:00.000Z"
+    },
+    {
+      "name": "Gym Membership",
+      "amount": 70,
+      "notes": "Monthly gym fee",
+      "created": "2024-02-09T11:10:00.000Z"
+    },
+    {
+      "name": "Phone Bill",
+      "amount": 45,
+      "notes": "Monthly phone bill",
+      "created": "2024-02-06T16:45:00.000Z"
+    },
+    {
+      "name": "Home Repairs",
+      "amount": 200,
+      "notes": "Fixing leaky faucet",
+      "created": "2024-02-11T09:30:00.000Z"
+    },
+    {
+      "name": "Books",
+      "amount": 15.5,
+      "notes": "New novels",
+      "created": "2024-02-03T13:20:00.000Z"
+    },
+    {
+      "name": "Travel",
+      "amount": 300,
+      "notes": "Weekend getaway",
+      "created": "2024-02-07T20:00:00.000Z"
+    },
+    {
+      "name": "Health Insurance",
+      "amount": 120,
+      "notes": "Monthly premium",
+      "created": "2024-02-13T08:00:00.000Z"
+    },
+    {
+      "name": "Car Maintenance",
+      "amount": 80.25,
+      "notes": "Oil change and tire rotation",
+      "created": "2024-02-04T14:15:00.000Z"
+    },
+    {
+      "name": "School Supplies",
+      "amount": 55,
+      "created": "2024-02-14T11:45:00.000Z"
+    },
+    {
+      "name": "Gifts",
+      "amount": 40,
+      "notes": "Birthday presents",
+      "created": "2024-02-12T17:30:00.000Z"
+    },
+    {
+      "name": "Electronics",
+      "amount": 150,
+      "notes": "New laptop charger",
+      "created": "2024-02-09T12:45:00.000Z"
+    },
+    {
+      "name": "Hobbies",
+      "amount": 75.5,
+      "notes": "Art supplies",
+      "created": "2024-02-05T16:30:00.000Z"
+    },
+    {
+      "name": "Insurance",
+      "amount": 90,
+      "notes": "Home insurance",
+      "created": "2024-02-10T09:15:00.000Z"
+    }
+]
